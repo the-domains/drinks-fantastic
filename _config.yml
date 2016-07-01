@@ -1,5 +1,6 @@
-layout_spectrum: 0.5185111232567579
 typography_spectrum: 0.7727440393064171
+content_rating:
+  adult: false
 color:
   brandStrength: 0.565433457493782
   lightness: 0.9098549580667168
@@ -11,4 +12,10 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+layout_spectrum: 0.5185111232567579
+author:
+  name: Mike Miller
+  email: mike@drinksfantastic.com
+  url: www.drinksfantastic.com
 name: Drinks Fantastic
+title: 'If you can sip it through a straw and saw WOW, you probably got it from us.'
